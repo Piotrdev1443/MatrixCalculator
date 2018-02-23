@@ -2,7 +2,7 @@
 
 Simple app doing selected calculations on matrices (dimensions 2x2 or 3x3) in graphical user interface, writed in Matlab language.
 
-In this program you can use option such as:
+In this program you can use options such as:
 1. determinant calculation
 2. matrix transposition
 3. multiplication two matrices
